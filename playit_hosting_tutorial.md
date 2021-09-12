@@ -17,7 +17,7 @@
 ![](https://cdn.calones.xyz/static/uploads/QJ9pp-firefox_ArskJblaCJ.png)
 
 ## 6. Set up a tunnel route
-![](https://cdn.calones.xyz/static/uploads/NnWo8-unknown.gif)
+![](https://raw.githubusercontent.com/I-Have-An-Issue/I-Have-An-Issue/main/huge%20ass%20file%20for%20some%20reason.gif)
 
 ## 7. Ping the tunnel domain with Command Prompt
 ### (Copy text with right click after highlighting)
